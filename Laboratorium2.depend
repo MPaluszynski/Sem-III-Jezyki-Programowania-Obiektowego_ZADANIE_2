@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1604823882 source:d:\studia\informatyka\sem3\jêzyki programowania obiektowego\laboratorium\lab2 (zamkiête)\laboratorium2\zadania\laboratorium2\main.cpp
+	<iostream>
+	"vectorNd.h"
+	"vectorOfVectors1.h"
+	"vectorOfVectors2.h"
+
+1604436218 d:\studia\informatyka\sem3\jêzyki programowania obiektowego\laboratorium\lab2 (zamkiête)\laboratorium2\zadania\laboratorium2\vectornd.h
+	<iostream>
+
+1604831991 source:d:\studia\informatyka\sem3\jêzyki programowania obiektowego\laboratorium\lab2 (zamkiête)\laboratorium2\zadania\laboratorium2\body.cpp
+	<iostream>
+	"vectorNd.h"
+	"vectorOfVectors1.h"
+	"vectorOfVectors2.h"
+
+1604523708 d:\studia\informatyka\sem3\jêzyki programowania obiektowego\laboratorium\lab2 (zamkiête)\laboratorium2\zadania\laboratorium2\vectorofvectors1.h
+	<iostream>
+	"vectorNd.h"
+
+1604831948 d:\studia\informatyka\sem3\jêzyki programowania obiektowego\laboratorium\lab2 (zamkiête)\laboratorium2\zadania\laboratorium2\vectorofvectors2.h
+	<iostream>
+	"vectorNd.h"
+
+1604832036 source:d:\studia\informatyka\sem3\jêzyki programowania obiektowego\laboratorium\lab2 (zamkiête)\laboratorium2\zadania\laboratorium2 — final\main.cpp
+	<iostream>
+	"vectorNd.h"
+	"vectorOfVectors1.h"
+	"vectorOfVectors2.h"
+
+1604436218 d:\studia\informatyka\sem3\jêzyki programowania obiektowego\laboratorium\lab2 (zamkiête)\laboratorium2\zadania\laboratorium2 — final\vectornd.h
+	<iostream>
+
+1604523708 d:\studia\informatyka\sem3\jêzyki programowania obiektowego\laboratorium\lab2 (zamkiête)\laboratorium2\zadania\laboratorium2 — final\vectorofvectors1.h
+	<iostream>
+	"vectorNd.h"
+
+1604831948 d:\studia\informatyka\sem3\jêzyki programowania obiektowego\laboratorium\lab2 (zamkiête)\laboratorium2\zadania\laboratorium2 — final\vectorofvectors2.h
+	<iostream>
+	"vectorNd.h"
+
+1604832624 source:d:\studia\informatyka\sem3\jêzyki programowania obiektowego\laboratorium\lab2 (zamkiête)\laboratorium2\zadania\laboratorium2 — final\vectornd.cpp
+	<iostream>
+	"vectorNd.h"
+	"vectorOfVectors1.h"
+	"vectorOfVectors2.h"
+
+1604832644 source:d:\studia\informatyka\sem3\jêzyki programowania obiektowego\laboratorium\lab2 (zamkiête)\laboratorium2\zadania\laboratorium2 — final\vectorofvectors1.cpp
+	<iostream>
+	"vectorNd.h"
+	"vectorOfVectors1.h"
+	"vectorOfVectors2.h"
+
+1604832661 source:d:\studia\informatyka\sem3\jêzyki programowania obiektowego\laboratorium\lab2 (zamkiête)\laboratorium2\zadania\laboratorium2 — final\vectorofvectors2.cpp
+	<iostream>
+	"vectorNd.h"
+	"vectorOfVectors1.h"
+	"vectorOfVectors2.h"
+
